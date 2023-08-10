@@ -1,2 +1,4 @@
 # IITG-22-JEE-Ranks
-I was getting bored with CS110 endsem prep...hence the tragedy
+* JEE Advanced CRL Ranks of all students from IIT Guwahati's 2022 batch, blanks indicate 'No CRL Rank'
+* I was getting bored with CS110 endsem prep...hence the tragedy
+* I am making the repo public... Who cares :-|
